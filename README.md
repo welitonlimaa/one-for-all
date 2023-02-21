@@ -1,4 +1,4 @@
-# One For All (Back-end)
+# One For All (Banco de Dados)
 
 Projeto de banco de dados SQL
 
